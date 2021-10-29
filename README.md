@@ -1,6 +1,6 @@
 <img src="Capture.PNG" align="right" />
 
-# Three-tier-app [![BadBank](https://avatars.githubusercontent.com/u/45120?v=4)]
+# Three-tier-app 
 > Description/Motivation: 
 This project is for educational purposes.
 
