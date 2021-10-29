@@ -20,7 +20,7 @@ This project is for educational purposes.
 - [MongoDB](https://www.mongodb.com/document-databases) - Non-relational database, also known as NoSQL database, which stands for Not Only SQL
 - [NODE.js](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
-- [docker](hhttps://www.docker.com/) - Docker takes away repetitive, mundane configuration tasks and is used throughout the development lifecycle for fast, easy and portable application development - desktop and cloud. Docker’s comprehensive end to end platform includes UIs, CLIs, APIs and security that are engineered to work together across the entire application delivery lifecycle
+- [docker](https://www.docker.com/) - Docker takes away repetitive, mundane configuration tasks and is used throughout the development lifecycle for fast, easy and portable application development - desktop and cloud. Docker’s comprehensive end to end platform includes UIs, CLIs, APIs and security that are engineered to work together across the entire application delivery lifecycle
 - [Robo 3T](https://robomongo.org/) - Robo 3T is the MongoDB GUI
 
 
